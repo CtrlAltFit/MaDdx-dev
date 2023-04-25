@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mehdi Ben Azzouz</h1>
+<h1 align="center">Hi 👋, I'm Mehdi </h1>
 <h3 align="center">A passionate Data scientist from Morocco</h3>
 
 - 🔭 I’m currently working on [Crossfit_Project](https://github.com/MaDdx-dev/Crossfit_Project)
